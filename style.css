@@ -1,0 +1,30 @@
+body
+{
+    font-size:medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 450;
+    font-style: italic;
+    background-color: darkseagreen;
+    text-align: center;
+    text-decoration: dashed;
+}
+
+header
+{
+    background-color: dodgerblue;
+    padding: 10px;
+    margin: 20px;
+    border: 5px solid red;
+    box-shadow: 5px 5px goldenrod;
+    text-align:left;
+
+
+}
+footer
+{
+background-color:gold;
+padding: 50px;
+margin: 30px;
+border: 4px solid rgb(111, 0, 215);
+
+}
